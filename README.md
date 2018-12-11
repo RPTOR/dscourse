@@ -1,5 +1,4 @@
-# dscourse
-Data Science Course: Getting and Cleaning Data
+# Data Science Course: Getting and Cleaning Data
 
 Script: run_analysis.R
 
