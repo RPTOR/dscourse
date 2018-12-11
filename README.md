@@ -2,7 +2,9 @@
 Data Science Course: Getting and Cleaning Data
 
 Script: run_analysis.R
+
 Date: 11 Dec 2018
+
 Version: 1.0 
 
 Description: 
